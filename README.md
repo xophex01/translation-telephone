@@ -85,3 +85,4 @@ flask db upgrade
     ```shell
     azd deploy
     ```
+These APIs are borrowed from Microsoft via Pamela Fox. Thanks!
